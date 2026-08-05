@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-9u2vne.urbicai.it/sitemap.xml
